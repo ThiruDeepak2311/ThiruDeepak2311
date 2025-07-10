@@ -1,6 +1,6 @@
 <div align="center">
 
-# **JAI HIND! 🇮🇳**
+# **🇮🇳 JAI HIND! 🇮🇳**
 ### *AI Systems Architect & Machine Learning Engineer*
 
 ```
