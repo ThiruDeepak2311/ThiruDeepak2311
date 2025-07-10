@@ -11,7 +11,7 @@
 
 <div align="center">
   
-**🏛️ Shiv Nadar University, Chennai** | **📍 Chennai, Tamil Nadu** | **🚀 AI Innovation Enthusiast**
+
 
 </div>
 
