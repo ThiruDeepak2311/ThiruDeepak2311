@@ -121,7 +121,7 @@ $ deepak --skills --list
 ### 🏆 Featured Repositories
 <div align="center">
 
-[![VehDet-TraAnlys](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=VehDet-TraAnlys&theme=tokyonight)](https://github.com/ThiruDeepak2311/VehDet-TraAnlys)
+[![Sentiment_Analysis_on_Call_Transcripts](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Sentiment_Analysis_on_Call_Transcripts&theme=tokyonight)](https://github.com/ThiruDeepak2311/Sentiment_Analysis_on_Call_Transcripts)
 [![SIH_Txt2Vid](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=SIH_Txt2Vid&theme=tokyonight)](https://github.com/ThiruDeepak2311/SIH_Txt2Vid)
 
 [![miniGPT](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight)](https://github.com/ThiruDeepak2311/miniGPT)
