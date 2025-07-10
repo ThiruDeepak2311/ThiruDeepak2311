@@ -5,13 +5,13 @@
 <div align="center">
 
 ### 🔥 **CORE POWERHOUSE**
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/about/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/docs/get_started/introduction) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
+<a href="https://www.python.org/about/" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a> <a href="https://python.langchain.com/docs/get_started/introduction" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"></a> <a href="https://pytorch.org/get-started/locally/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
 
 ### 🧠 **AI SPECIALIZATIONS**
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/about/) [![Deep Learning](https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/learn) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/getting_started.html) [![NLP](https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/usage/spacy-101)
+<a href="https://opencv.org/about/" target="_blank"><img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> <a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"></a> <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"></a> <a href="https://spacy.io/usage/spacy-101" target="_blank"><img src="https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a>
 
 ### 🚀 **BREAKTHROUGH PROJECTS**
-[![Text to Video](https://img.shields.io/badge/Text_to_Video-FF9F43?style=for-the-badge&logo=video&logoColor=white)](https://github.com/ThiruDeepak2311/SIH_Txt2Vid) [![VKAnalysis](https://img.shields.io/badge/VKAnalysis-6C5CE7?style=for-the-badge&logo=analytics&logoColor=white)](https://github.com/ThiruDeepak2311/VKanalysis) [![RAG-PDF](https://img.shields.io/badge/RAG--PDF-FD79A8?style=for-the-badge&logo=database&logoColor=white)](https://github.com/ThiruDeepak2311/Rag-PDF) [![ERP LLM](https://img.shields.io/badge/ERP_LLM-00B894?style=for-the-badge&logo=enterprise&logoColor=white)](https://github.com/ThiruDeepak2311/Erp_LLM)
+<a href="https://github.com/ThiruDeepak2311/SIH_Txt2Vid" target="_blank"><img src="https://img.shields.io/badge/Text_to_Video-FF9F43?style=for-the-badge&logo=video&logoColor=white" alt="Text to Video"></a> <a href="https://github.com/ThiruDeepak2311/VKanalysis" target="_blank"><img src="https://img.shields.io/badge/VKAnalysis-6C5CE7?style=for-the-badge&logo=analytics&logoColor=white" alt="VKAnalysis"></a> <a href="https://github.com/ThiruDeepak2311/Rag-PDF" target="_blank"><img src="https://img.shields.io/badge/RAG--PDF-FD79A8?style=for-the-badge&logo=database&logoColor=white" alt="RAG-PDF"></a> <a href="https://github.com/ThiruDeepak2311/Erp_LLM" target="_blank"><img src="https://img.shields.io/badge/ERP_LLM-00B894?style=for-the-badge&logo=enterprise&logoColor=white" alt="ERP LLM"></a>
 
 </div>
 
@@ -19,12 +19,12 @@
 Architecting cutting-edge AI solutions that bridge complex algorithms with tangible real-world applications. From vehicle detection systems to text-to-video generation, every project pushes the boundaries of what's possible with artificial intelligence.
 
 ## 🔬 Current Experiments
-- 🚗 **VehDet-TraAnlys**: Advanced vehicle detection & traffic analysis system ⭐
-- 🎬 **SIH_Txt2Vid**: Revolutionary text-to-video generation for Smart India Hackathon
-- 🤖 **miniGPT**: Custom GPT implementation from scratch
-- 📄 **Rag-PDF**: Intelligent document processing with RAG architecture
-- 🏢 **Erp_LLM**: Enterprise resource planning powered by large language models
-- 🛡️ **HelDet-LicRec**: Computer vision for safety compliance detection
+🚗 **VehDet-TraAnlys**: Advanced vehicle detection & traffic analysis system ⭐
+🎬 **SIH_Txt2Vid**: Revolutionary text-to-video generation for Smart India Hackathon
+🤖 **miniGPT**: Custom GPT implementation from scratch
+📄 **Rag-PDF**: Intelligent document processing with RAG architecture
+🏢 **Erp_LLM**: Enterprise resource planning powered by large language models
+🛡️ **HelDet-LicRec**: Computer vision for safety compliance detection
 
 ## 🌟 **INNOVATION ECOSYSTEM**
 
@@ -96,8 +96,8 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 - 🚀 **Production Systems**: Real-world AI implementations
 
 ## 🌐 Connect With The Neural Network
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-thirukkumaran-758598232/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirudeepak2311@gmail.com)
+<a href="https://www.linkedin.com/in/deepak-thirukkumaran-758598232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:thirudeepak2311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ## 💭 Philosophy
 *"Every algorithm I write is a step closer to making AI truly beneficial for humanity"*
@@ -107,11 +107,11 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 ### 🏆 Featured Repositories
 <div align="center">
 
-[![Sentiment_Analysis_on_Call_Transcripts](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Sentiment_Analysis_on_Call_Transcripts&theme=tokyonight)](https://github.com/ThiruDeepak2311/Sentiment_Analysis_on_Call_Transcripts)
-[![SIH_Txt2Vid](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=SIH_Txt2Vid&theme=tokyonight)](https://github.com/ThiruDeepak2311/SIH_Txt2Vid)
+<a href="https://github.com/ThiruDeepak2311/Sentiment_Analysis_on_Call_Transcripts" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Sentiment_Analysis_on_Call_Transcripts&theme=tokyonight" alt="Sentiment Analysis on Call Transcripts"></a>
+<a href="https://github.com/ThiruDeepak2311/SIH_Txt2Vid" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=SIH_Txt2Vid&theme=tokyonight" alt="SIH Txt2Vid"></a>
 
-[![miniGPT](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight)](https://github.com/ThiruDeepak2311/miniGPT)
-[![Langchain_Bot](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Langchain_Bot&theme=tokyonight)](https://github.com/ThiruDeepak2311/Langchain_Bot)
+<a href="https://github.com/ThiruDeepak2311/miniGPT" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight" alt="miniGPT"></a>
+<a href="https://github.com/ThiruDeepak2311/Langchain_Bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Langchain_Bot&theme=tokyonight" alt="Langchain Bot"></a>
 
 </div>
 
