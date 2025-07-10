@@ -2,22 +2,6 @@
 
 # வணக்கம் !
 
-
-
-![Mission](https://img.shields.io/badge/🎯-TURNING%20ALGORITHMS%20INTO%20REAL--WORLD%20SOLUTIONS-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/🧠-Computer%20Vision%20to%20Large%20Language%20Models-green?style=for-the-badge)
-![Vision](https://img.shields.io/badge/🌟-Building%20Tomorrow's%20Intelligent%20Systems-orange?style=for-the-badge)
-
-</div>
-
-<div align="center">
-  
-
-
-</div>
-
----
-
 ## 🎨 **TECHNOLOGICAL MASTERY**
 
 <div align="center">
