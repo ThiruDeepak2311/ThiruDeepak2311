@@ -1,7 +1,8 @@
 <div align="center">
 
-# 🚀 **Hey...**
+# 🚀 **Hey!**
 
+**🇮🇳 JAI HIND! 🇮🇳**
 
 ![Mission](https://img.shields.io/badge/🎯-TURNING%20ALGORITHMS%20INTO%20REAL--WORLD%20SOLUTIONS-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/🧠-Computer%20Vision%20to%20Large%20Language%20Models-green?style=for-the-badge)
@@ -22,13 +23,13 @@
 <div align="center">
 
 ### 🔥 **CORE POWERHOUSE**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/about/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/docs/get_started/introduction) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
 
 ### 🧠 **AI SPECIALIZATIONS**
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white)
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/about/) [![Deep Learning](https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/learn) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/getting_started.html) [![NLP](https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/usage/spacy-101)
 
 ### 🚀 **BREAKTHROUGH PROJECTS**
-![Text to Video](https://img.shields.io/badge/Text_to_Video-FF9F43?style=for-the-badge&logo=video&logoColor=white) ![Vehicle Detection](https://img.shields.io/badge/Vehicle_Detection-6C5CE7?style=for-the-badge&logo=car&logoColor=white) ![RAG Systems](https://img.shields.io/badge/RAG_Systems-FD79A8?style=for-the-badge&logo=database&logoColor=white) ![PDF Processing](https://img.shields.io/badge/PDF_Processing-00B894?style=for-the-badge&logo=adobe&logoColor=white)
+[![Text to Video](https://img.shields.io/badge/Text_to_Video-FF9F43?style=for-the-badge&logo=video&logoColor=white)](https://github.com/ThiruDeepak2311/SIH_Txt2Vid) [![Vehicle Detection](https://img.shields.io/badge/Vehicle_Detection-6C5CE7?style=for-the-badge&logo=car&logoColor=white)](https://github.com/ThiruDeepak2311/VehDet-TraAnlys) [![RAG Systems](https://img.shields.io/badge/RAG_Systems-FD79A8?style=for-the-badge&logo=database&logoColor=white)](https://github.com/ThiruDeepak2311/Rag-PDF) [![PDF Processing](https://img.shields.io/badge/PDF_Processing-00B894?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/ThiruDeepak2311/Rag-PDF)
 
 </div>
 
@@ -48,24 +49,32 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 <table align="center">
 <tr>
 <td align="center" width="25%">
+<a href="https://www.python.org/about/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
 <br><strong>PYTHON</strong>
 <br><sub>Core Foundation</sub>
+</a>
 </td>
 <td align="center" width="25%">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
 <br><strong>JAVASCRIPT</strong>
 <br><sub>Dynamic Systems</sub>
+</a>
 </td>
 <td align="center" width="25%">
+<a href="https://python.langchain.com/docs/get_started/introduction">
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="60" height="60"/>
 <br><strong>LANGCHAIN</strong>
 <br><sub>LLM Orchestration</sub>
+</a>
 </td>
 <td align="center" width="25%">
+<a href="https://pytorch.org/get-started/locally/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60" height="60"/>
 <br><strong>PYTORCH</strong>
 <br><sub>Deep Learning</sub>
+</a>
 </td>
 </tr>
 </table>
@@ -84,19 +93,15 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 
 <div align="center">
 
-### ⚡ **TECHNICAL ARSENAL**
+### 💡 **PROBLEMS I SOLVE**
 
-```bash
-$ deepak --skills --list
-┌─────────────────────────────────────────────────┐
-│  🔥 ACTIVE DEPLOYMENTS                         │
-├─────────────────────────────────────────────────┤
-│  ► RAG Systems            [████████████] 95%   │
-│  ► Computer Vision        [███████████▓] 90%   │
-│  ► LLM Integration        [██████████▓▓] 85%   │
-│  ► PDF Processing         [████████▓▓▓▓] 80%   │
-│  ► Production ML          [██████▓▓▓▓▓▓] 75%   │
-└─────────────────────────────────────────────────┘
+```
+🚗 Traffic Management → Vehicle Detection AI
+📄 Document Overload → Intelligent PDF Processing  
+🎬 Content Creation → Text-to-Video Generation
+🤖 Customer Service → Smart Chatbot Systems
+🛡️ Safety Compliance → Automated Detection Systems
+🏢 Business Automation → AI-Powered ERP Solutions
 ```
 
 </div>
@@ -110,7 +115,6 @@ $ deepak --skills --list
 
 ## 🌐 Connect With The Neural Network
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-thirukkumaran-758598232/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiruDeepak2311)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirudeepak2311@gmail.com)
 
 ## 💭 Philosophy
