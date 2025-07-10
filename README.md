@@ -99,7 +99,7 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 <a href="https://www.linkedin.com/in/deepak-thirukkumaran-758598232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:thirudeepak2311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-## 💭 Philosophy
+
 *"Every algorithm I write is a step closer to making AI truly beneficial for humanity"*
 
 ---
@@ -131,7 +131,7 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 
 <div align="center">
   
-**💡 "The future of AI isn't just artificial intelligence—it's augmented humanity"**
+**💡 "The future of AI isn't just artificial intelligence, it's augmented humanity"**
 
 *Building tomorrow's intelligent systems, one commit at a time* 🚀
 
