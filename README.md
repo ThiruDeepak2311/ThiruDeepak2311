@@ -19,12 +19,12 @@
 Architecting cutting-edge AI solutions that bridge complex algorithms with tangible real-world applications. From vehicle detection systems to text-to-video generation, every project pushes the boundaries of what's possible with artificial intelligence.
 
 ## 🔬 Current Experiments
-🚗 **VehDet-TraAnlys**: Advanced vehicle detection & traffic analysis system ⭐
-🎬 **SIH_Txt2Vid**: Revolutionary text-to-video generation for Smart India Hackathon
-🤖 **miniGPT**: Custom GPT implementation from scratch
-📄 **Rag-PDF**: Intelligent document processing with RAG architecture
-🏢 **Erp_LLM**: Enterprise resource planning powered by large language models
-🛡️ **HelDet-LicRec**: Computer vision for safety compliance detection
+-- 🚗 **VehDet-TraAnlys**: Advanced vehicle detection & traffic analysis system ⭐
+-- 🎬 **SIH_Txt2Vid**: Revolutionary text-to-video generation for Smart India Hackathon
+-- 🤖 **miniGPT**: Custom GPT implementation from scratch
+-- 📄 **Rag-PDF**: Intelligent document processing with RAG architecture
+-- 🏢 **Erp_LLM**: Enterprise resource planning powered by large language models
+-- 🛡️ **HelDet-LicRec**: Computer vision for safety compliance detection
 
 ## 🌟 **INNOVATION ECOSYSTEM**
 
