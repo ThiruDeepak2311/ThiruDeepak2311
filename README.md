@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 **DEEPAK THIRUKKUMARAN**
+# **JAI HIND! 🇮🇳**
 ### *AI Systems Architect & Machine Learning Engineer*
 
 ```
