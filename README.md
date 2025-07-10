@@ -1,76 +1,134 @@
-# 🧠 System.initialize("AI_Engineer") 
-> *Building intelligent systems that shape tomorrow's possibilities*
+<div align="center">
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Deepak Thirukkumaran"
-        self.role = "AI Engineer"
-        self.passion = ["Machine Learning", "Computer vision", "Deep Learning", "AI]
-        self.status = "Currently optimizing the future 🚀"
-    
-    def get_expertise(self):
-        return {
-            "primary_stack": ["Python", "TensorFlow", "PyTorch", "Docker"],
-            "specialization": ["Deep Learning", "MLOps", "Computer Vision"],
-            "tools": ["Azure", "AWS", "Git"],
-        }
+# 🚀 **DEEPAK THIRUKKUMARAN**
+### *AI Systems Architect & Machine Learning Engineer*
+
 ```
+╔══════════════════════════════════════════════════════════════╗
+║  🎯 TURNING ALGORITHMS INTO REAL-WORLD SOLUTIONS            ║
+║  🧠 From Computer Vision to Large Language Models           ║
+║  🌟 Building Tomorrow's Intelligent Systems Today           ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+  
+**🏛️ Shiv Nadar University, Chennai** | **📍 Chennai, Tamil Nadu** | **🚀 AI Innovation Enthusiast**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **THE AI ARSENAL**
+
+**🐍 Python Wizard** • **🌐 JavaScript Expert** • **🔗 LangChain Master** • **🧮 PyTorch Specialist**
+
+**💡 Specializing In:** Computer Vision • RAG Systems • Text-to-Video Generation • Vehicle Detection
+
+</div>
 
 ## 🎯 Mission Statement
-Architecting AI solutions that bridge the gap between complex algorithms and real-world impact. Every model I build is a step toward making artificial intelligence more accessible and beneficial for humanity.
+Architecting cutting-edge AI solutions that bridge complex algorithms with tangible real-world applications. From vehicle detection systems to text-to-video generation, every project pushes the boundaries of what's possible with artificial intelligence.
 
 ## 🔬 Current Experiments
-- 🧪 **Project Alpha**: Developing next-gen recommendation systems
-- 🎨 **Creative AI**: Exploring generative models for artistic applications  
-- 🔍 **Research**: Contributing to open-source ML libraries
-- 📊 **DataViz**: Building intelligent data visualization tools
+- 🚗 **VehDet-TraAnlys**: Advanced vehicle detection & traffic analysis system ⭐
+- 🎬 **SIH_Txt2Vid**: Revolutionary text-to-video generation for Smart India Hackathon
+- 🤖 **miniGPT**: Custom GPT implementation from scratch
+- 📄 **Rag-PDF**: Intelligent document processing with RAG architecture
+- 🏢 **Erp_LLM**: Enterprise resource planning powered by large language models
+- 🛡️ **HelDet-LicRec**: Computer vision for safety compliance detection
 
 ## 🛠️ Tech Arsenal
-```mermaid
-graph LR
-    A[Data Science] --> B[Machine Learning]
-    B --> C[Deep Learning]
-    C --> D[AI Systems]
-    D --> E[Production ML]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffeaa7
+
+<div align="center">
+
+### 🔥 Core Technologies
+```
+      🐍           ⚡           🧠           👁️
+    Python     JavaScript   LangChain   Computer Vision
+      │            │            │            │
+      ▼            ▼            ▼            ▼
+   ┌─────────┬─────────┬─────────┬─────────┐
+   │  🔬     │   🎯    │   📊    │   🚀    │
+   │ Jupyter │  RAG    │ PyTorch │ LLM Apps│
+   │ Notebook│ Systems │         │         │
+   └─────────┴─────────┴─────────┴─────────┘
 ```
 
-## 📈 Impact Metrics
-- 🤖 **AI Models Deployed**: 15+ production systems
-- 📚 **Open Source Contributions**: Active in ML community
-- 🎓 **Knowledge Sharing**: Technical blogs & tutorials
-- 🌟 **Community**: Mentoring emerging AI developers
+</div>
 
-## 🌐 Neural Network
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-website)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+<div align="center">
+
+### 💫 Skill Constellation
+
+```
+        🎨 Computer Vision           🤖 Machine Learning
+              /     \                      /     \
+             /       \                    /       \
+    🚗 Vehicle      🛡️ Safety         📝 NLP      🧮 Deep Learning
+     Detection     Detection            /              \
+          \           /                /                \
+           \         /           🎬 Text2Video      ⚡ LangChain
+            \       /                  |                 |
+             🎯 AI Systems         📄 RAG Systems    🔍 PDF Processing
+                   \                    |               /
+                    \                   |              /
+                     \                  |             /
+                      🚀 Production ML Systems 🚀
+```
+
+</div>
+
+## 📈 Impact Metrics
+- 🏆 **Smart India Hackathon**: Text-to-Video Generation Project
+- ⭐ **Open Source**: Contributing to AI/ML community
+- 🎓 **Academic Excellence**: Shiv Nadar University, Chennai
+- 🔬 **Research Focus**: Computer Vision + Large Language Models
+- 🚀 **Production Systems**: Real-world AI implementations
+
+## 🌐 Connect With The Neural Network
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-thirukkumaran-758598232/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiruDeepak2311)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirudeepak2311@gmail.com)
 
 ## 💭 Philosophy
-*"The best AI doesn't replace human intelligence—it amplifies it."*
+*"Every algorithm I write is a step closer to making AI truly beneficial for humanity"*
+
+---
+
+### 🏆 Featured Repositories
+<div align="center">
+
+[![VehDet-TraAnlys](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=VehDet-TraAnlys&theme=tokyonight)](https://github.com/ThiruDeepak2311/VehDet-TraAnlys)
+[![SIH_Txt2Vid](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=SIH_Txt2Vid&theme=tokyonight)](https://github.com/ThiruDeepak2311/SIH_Txt2Vid)
+
+[![miniGPT](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight)](https://github.com/ThiruDeepak2311/miniGPT)
+[![Langchain_Bot](https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Langchain_Bot&theme=tokyonight)](https://github.com/ThiruDeepak2311/Langchain_Bot)
+
+</div>
 
 ---
 
 ### 📊 GitHub Analytics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+> *Note: GitHub stats widgets may take time to load. For real-time insights, visit the [repositories](https://github.com/ThiruDeepak2311?tab=repositories) directly.*
 
-### 🏆 Achievement Unlocked
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiruDeepak2311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruDeepak2311&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 <div align="center">
   
-**💡 "Every commit is a step toward artificial general intelligence"**
+**💡 "The future of AI isn't just artificial intelligence—it's augmented humanity"**
 
-*Let's build the future together, one algorithm at a time*
+*Building tomorrow's intelligent systems, one commit at a time* 🚀
 
 </div>
