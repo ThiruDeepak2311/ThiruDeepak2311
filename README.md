@@ -1,6 +1,6 @@
 <div align="center">
 
-# **🇮🇳 JAI HIND! 🇮🇳**
+# 🚀 **DEEPAK THIRUKKUMARAN**
 ### *AI Systems Architect & Machine Learning Engineer*
 
 ```
@@ -10,6 +10,8 @@
 ║  🌟 Building Tomorrow's Intelligent Systems Today           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+**🇮🇳 JAI HIND! 🇮🇳**
 
 </div>
 
@@ -21,13 +23,18 @@
 
 ---
 
+## 🎨 **TECHNOLOGICAL MASTERY**
+
 <div align="center">
 
-### ⚡ **THE AI ARSENAL**
+### 🔥 **CORE POWERHOUSE**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**🐍 Python Wizard** • **🌐 JavaScript Expert** • **🔗 LangChain Master** • **🧮 PyTorch Specialist**
+### 🧠 **AI SPECIALIZATIONS**
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white)
 
-**💡 Specializing In:** Computer Vision • RAG Systems • Text-to-Video Generation • Vehicle Detection
+### 🚀 **BREAKTHROUGH PROJECTS**
+![Text to Video](https://img.shields.io/badge/Text_to_Video-FF9F43?style=for-the-badge&logo=video&logoColor=white) ![Vehicle Detection](https://img.shields.io/badge/Vehicle_Detection-6C5CE7?style=for-the-badge&logo=car&logoColor=white) ![RAG Systems](https://img.shields.io/badge/RAG_Systems-FD79A8?style=for-the-badge&logo=database&logoColor=white) ![PDF Processing](https://img.shields.io/badge/PDF_Processing-00B894?style=for-the-badge&logo=adobe&logoColor=white)
 
 </div>
 
@@ -123,6 +130,15 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 
 </div>
 
+---
+
+<div align="center">
+  
+**💡 "The future of AI isn't just artificial intelligence—it's augmented humanity"**
+
+*Building tomorrow's intelligent systems, one commit at a time* 🚀
+
+</div>
 ---
 
 <div align="center">
