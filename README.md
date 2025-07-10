@@ -1,16 +1,11 @@
 <div align="center">
 
-# 🚀 **Welcome!**
+# 🚀 **Welcome!!!**
 ### *AI Systems Architect & Machine Learning Engineer*
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🎯 TURNING ALGORITHMS INTO REAL-WORLD SOLUTIONS            ║
-║  🧠 From Computer Vision to Large Language Models           ║
-║  🌟 Building Tomorrow's Intelligent Systems Today           ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
+![Mission](https://img.shields.io/badge/🎯-TURNING%20ALGORITHMS%20INTO%20REAL--WORLD%20SOLUTIONS-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/🧠-Computer%20Vision%20to%20Large%20Language%20Models-green?style=for-the-badge)
+![Vision](https://img.shields.io/badge/🌟-Building%20Tomorrow's%20Intelligent%20Systems-orange?style=for-the-badge)
 
 </div>
 
@@ -48,43 +43,60 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 - 🏢 **Erp_LLM**: Enterprise resource planning powered by large language models
 - 🛡️ **HelDet-LicRec**: Computer vision for safety compliance detection
 
-## 🛠️ Tech Arsenal
+## 🌟 **INNOVATION ECOSYSTEM**
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
+<br><strong>PYTHON</strong>
+<br><sub>Core Foundation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
+<br><strong>JAVASCRIPT</strong>
+<br><sub>Dynamic Systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="60" height="60"/>
+<br><strong>LANGCHAIN</strong>
+<br><sub>LLM Orchestration</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60" height="60"/>
+<br><strong>PYTORCH</strong>
+<br><sub>Deep Learning</sub>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### 🔥 Core Technologies
-```
-      🐍           ⚡           🧠           👁️
-    Python     JavaScript   LangChain   Computer Vision
-      │            │            │            │
-      ▼            ▼            ▼            ▼
-   ┌─────────┬─────────┬─────────┬─────────┐
-   │  🔬     │   🎯    │   📊    │   🚀    │
-   │ Jupyter │  RAG    │ PyTorch │ LLM Apps│
-   │ Notebook│ Systems │         │         │
-   └─────────┴─────────┴─────────┴─────────┘
-```
+### 🚀 **BREAKTHROUGH DOMAINS**
+
+| 🎯 **COMPUTER VISION** | 🧠 **MACHINE LEARNING** | 🎬 **GENERATIVE AI** |
+|:---:|:---:|:---:|
+| Vehicle Detection Systems | Deep Neural Networks | Text-to-Video Generation |
+| Safety Compliance Monitoring | Pattern Recognition | Creative AI Applications |
+| Real-time Object Analysis | Predictive Modeling | Content Generation |
 
 </div>
 
 <div align="center">
 
-### 💫 Skill Constellation
+### ⚡ **TECHNICAL ARSENAL**
 
-```
-        🎨 Computer Vision           🤖 Machine Learning
-              /     \                      /     \
-             /       \                    /       \
-    🚗 Vehicle      🛡️ Safety         📝 NLP      🧮 Deep Learning
-     Detection     Detection            /              \
-          \           /                /                \
-           \         /           🎬 Text2Video      ⚡ LangChain
-            \       /                  |                 |
-             🎯 AI Systems         📄 RAG Systems    🔍 PDF Processing
-                   \                    |               /
-                    \                   |              /
-                     \                  |             /
-                      🚀 Production ML Systems 🚀
+```bash
+$ deepak --skills --list
+┌─────────────────────────────────────────────────┐
+│  🔥 ACTIVE DEPLOYMENTS                         │
+├─────────────────────────────────────────────────┤
+│  ► RAG Systems            [████████████] 95%   │
+│  ► Computer Vision        [███████████▓] 90%   │
+│  ► LLM Integration        [██████████▓▓] 85%   │
+│  ► PDF Processing         [████████▓▓▓▓] 80%   │
+│  ► Production ML          [██████▓▓▓▓▓▓] 75%   │
+└─────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -129,15 +141,6 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 
 </div>
 
----
-
-<div align="center">
-  
-**💡 "The future of AI isn't just artificial intelligence—it's augmented humanity"**
-
-*Building tomorrow's intelligent systems, one commit at a time* 🚀
-
-</div>
 ---
 
 <div align="center">
