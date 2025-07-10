@@ -2,7 +2,6 @@
 
 # 🚀 **Hey!**
 
-**🇮🇳 JAI HIND! 🇮🇳**
 
 ![Mission](https://img.shields.io/badge/🎯-TURNING%20ALGORITHMS%20INTO%20REAL--WORLD%20SOLUTIONS-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/🧠-Computer%20Vision%20to%20Large%20Language%20Models-green?style=for-the-badge)
