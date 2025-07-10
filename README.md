@@ -2,8 +2,6 @@
 
 # வணக்கம் !
 
-## 🎨 **TECHNOLOGICAL MASTERY**
-
 <div align="center">
 
 ### 🔥 **CORE POWERHOUSE**
