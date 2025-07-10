@@ -1,7 +1,8 @@
 <div align="center">
 
-# 🚀 **Hey!**
+# வணக்கம் !
 
+**🇮🇳 JAI HIND! 🇮🇳**
 
 ![Mission](https://img.shields.io/badge/🎯-TURNING%20ALGORITHMS%20INTO%20REAL--WORLD%20SOLUTIONS-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/🧠-Computer%20Vision%20to%20Large%20Language%20Models-green?style=for-the-badge)
@@ -28,7 +29,7 @@
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/about/) [![Deep Learning](https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/learn) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/getting_started.html) [![NLP](https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/usage/spacy-101)
 
 ### 🚀 **BREAKTHROUGH PROJECTS**
-[![Text to Video](https://img.shields.io/badge/Text_to_Video-FF9F43?style=for-the-badge&logo=video&logoColor=white)](https://github.com/ThiruDeepak2311/SIH_Txt2Vid) [![Vehicle Detection](https://img.shields.io/badge/Vehicle_Detection-6C5CE7?style=for-the-badge&logo=car&logoColor=white)](https://github.com/ThiruDeepak2311/VehDet-TraAnlys) [![RAG Systems](https://img.shields.io/badge/RAG_Systems-FD79A8?style=for-the-badge&logo=database&logoColor=white)](https://github.com/ThiruDeepak2311/Rag-PDF) [![PDF Processing](https://img.shields.io/badge/PDF_Processing-00B894?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/ThiruDeepak2311/Rag-PDF)
+[![Text to Video](https://img.shields.io/badge/Text_to_Video-FF9F43?style=for-the-badge&logo=video&logoColor=white)](https://github.com/ThiruDeepak2311/SIH_Txt2Vid) [![VKAnalysis](https://img.shields.io/badge/VKAnalysis-6C5CE7?style=for-the-badge&logo=analytics&logoColor=white)](https://github.com/ThiruDeepak2311/VKanalysis) [![RAG-PDF](https://img.shields.io/badge/RAG--PDF-FD79A8?style=for-the-badge&logo=database&logoColor=white)](https://github.com/ThiruDeepak2311/Rag-PDF) [![ERP LLM](https://img.shields.io/badge/ERP_LLM-00B894?style=for-the-badge&logo=enterprise&logoColor=white)](https://github.com/ThiruDeepak2311/Erp_LLM)
 
 </div>
 
