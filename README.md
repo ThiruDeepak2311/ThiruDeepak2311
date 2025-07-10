@@ -31,28 +31,28 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<a href="https://www.python.org/about/">
+<a href="https://www.python.org/about/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
 <br><strong>PYTHON</strong>
 <br><sub>Core Foundation</sub>
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
 <br><strong>JAVASCRIPT</strong>
 <br><sub>Dynamic Systems</sub>
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://python.langchain.com/docs/get_started/introduction">
+<a href="https://python.langchain.com/docs/get_started/introduction" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="60" height="60"/>
 <br><strong>LANGCHAIN</strong>
 <br><sub>LLM Orchestration</sub>
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://pytorch.org/get-started/locally/">
+<a href="https://pytorch.org/get-started/locally/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60" height="60"/>
 <br><strong>PYTORCH</strong>
 <br><sub>Deep Learning</sub>
