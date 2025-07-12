@@ -110,11 +110,11 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 ### 🏆 Featured Repositories
 <div align="center">
 
-<a href="https://github.com/ThiruDeepak2311/Sentiment_Analysis_on_Call_Transcripts" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Sentiment_Analysis_on_Call_Transcripts&theme=tokyonight" alt="Sentiment Analysis on Call Transcripts"></a>
-<a href="https://github.com/ThiruDeepak2311/SIH_Txt2Vid" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=SIH_Txt2Vid&theme=tokyonight" alt="SIH Txt2Vid"></a>
+<a href="https://github.com/ThiruDeepak2311/IITHyd" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=IITHyd&theme=tokyonight" alt="IITHyd"></a>
+<a href="https://github.com/ThiruDeepak2311/VKanalysis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=VKanalysis&theme=tokyonight" alt="VKanalysis"></a>
 
 <a href="https://github.com/ThiruDeepak2311/miniGPT" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight" alt="miniGPT"></a>
-<a href="https://github.com/ThiruDeepak2311/Langchain_Bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Langchain_Bot&theme=tokyonight" alt="Langchain Bot"></a>
+<a href="https://github.com/ThiruDeepak2311/SIH_Txt2Vid" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=SIH_Txt2Vid&theme=tokyonight" alt="SIH Txt2Vid"></a>
 
 </div>
 
