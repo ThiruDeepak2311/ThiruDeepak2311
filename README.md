@@ -19,6 +19,7 @@
 <a href="https://www.figma.com/developers/api" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/></a>
 
 </div>
+
 ### 🧠 **AI SPECIALIZATIONS**
 <a href="https://opencv.org/about/" target="_blank"><img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> <a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"></a> <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"></a> <a href="https://spacy.io/usage/spacy-101" target="_blank"><img src="https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a>
 
