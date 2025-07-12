@@ -1,9 +1,5 @@
 <div align="center">
 
-# Welcome to my hub!
-
-<div align="center">
-
 
 ### 🛠️ **TECH STACK**
 
