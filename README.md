@@ -16,9 +16,13 @@
 
 </div>
 
+<div align="center">
+
 ### 🧠 **AI SPECIALIZATIONS**
 <a href="https://opencv.org/about/" target="_blank"><img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> <a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"></a> <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"></a> <a href="https://spacy.io/usage/spacy-101" target="_blank"><img src="https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a>
 
+<div align="center">
+  
 ### 🚀 **BREAKTHROUGH PROJECTS**
 <a href="https://github.com/ThiruDeepak2311/SIH_Txt2Vid" target="_blank"><img src="https://img.shields.io/badge/Text_to_Video-FF9F43?style=for-the-badge&logo=video&logoColor=white" alt="Text to Video"></a> <a href="https://github.com/ThiruDeepak2311/VKanalysis" target="_blank"><img src="https://img.shields.io/badge/VKAnalysis-6C5CE7?style=for-the-badge&logo=analytics&logoColor=white" alt="VKAnalysis"></a> <a href="https://github.com/ThiruDeepak2311/Rag-PDF" target="_blank"><img src="https://img.shields.io/badge/RAG--PDF-FD79A8?style=for-the-badge&logo=database&logoColor=white" alt="RAG-PDF"></a> <a href="https://github.com/ThiruDeepak2311/Erp_LLM" target="_blank"><img src="https://img.shields.io/badge/ERP_LLM-00B894?style=for-the-badge&logo=enterprise&logoColor=white" alt="ERP LLM"></a>
 
