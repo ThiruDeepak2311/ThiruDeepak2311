@@ -23,7 +23,6 @@
 
 </div>
 
-## 🎯
 Architecting cutting-edge AI solutions that bridge complex algorithms with tangible real-world applications. From vehicle detection systems to text-to-video generation, every project pushes the boundaries of what's possible with artificial intelligence.
 
 ## 🌟 **INNOVATION ECOSYSTEM**
