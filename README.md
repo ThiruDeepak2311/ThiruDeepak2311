@@ -110,11 +110,11 @@ Architecting cutting-edge AI solutions that bridge complex algorithms with tangi
 ### 🏆 Featured Repositories
 <div align="center">
 
-<a href="https://github.com/ThiruDeepak2311/IITHyd" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=IITHyd&theme=tokyonight" alt="IITHyd"></a>
-<a href="https://github.com/ThiruDeepak2311/VKanalysis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=VKanalysis&theme=tokyonight" alt="VKanalysis"></a>
+<a href="https://github.com/ThiruDeepak2311/IITHyd" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=IITHyd&theme=tokyonight&cache_seconds=0" alt="IITHyd"></a>
+<a href="https://github.com/ThiruDeepak2311/VKanalysis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=VKanalysis&theme=tokyonight&cache_seconds=0" alt="VKanalysis"></a>
 
-<a href="https://github.com/ThiruDeepak2311/miniGPT" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight" alt="miniGPT"></a>
-<a href="https://github.com/ThiruDeepak2311/SIH_Txt2Vid" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=SIH_Txt2Vid&theme=tokyonight" alt="SIH Txt2Vid"></a>
+<a href="https://github.com/ThiruDeepak2311/miniGPT" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight&cache_seconds=0" alt="miniGPT"></a>
+<a href="https://github.com/ThiruDeepak2311/SIH_Txt2Vid" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=SIH_Txt2Vid&theme=tokyonight&cache_seconds=0" alt="SIH Txt2Vid"></a>
 
 </div>
 
