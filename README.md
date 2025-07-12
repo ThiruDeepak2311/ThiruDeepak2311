@@ -21,23 +21,10 @@
 ### 🧠 **AI SPECIALIZATIONS**
 <a href="https://opencv.org/about/" target="_blank"><img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> <a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"></a> <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"></a> <a href="https://spacy.io/usage/spacy-101" target="_blank"><img src="https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a>
 
-<div align="center">
-  
-### 🚀 **BREAKTHROUGH PROJECTS**
-<a href="https://github.com/ThiruDeepak2311/SIH_Txt2Vid" target="_blank"><img src="https://img.shields.io/badge/Text_to_Video-FF9F43?style=for-the-badge&logo=video&logoColor=white" alt="Text to Video"></a> <a href="https://github.com/ThiruDeepak2311/VKanalysis" target="_blank"><img src="https://img.shields.io/badge/VKAnalysis-6C5CE7?style=for-the-badge&logo=analytics&logoColor=white" alt="VKAnalysis"></a> <a href="https://github.com/ThiruDeepak2311/Rag-PDF" target="_blank"><img src="https://img.shields.io/badge/RAG--PDF-FD79A8?style=for-the-badge&logo=database&logoColor=white" alt="RAG-PDF"></a> <a href="https://github.com/ThiruDeepak2311/Erp_LLM" target="_blank"><img src="https://img.shields.io/badge/ERP_LLM-00B894?style=for-the-badge&logo=enterprise&logoColor=white" alt="ERP LLM"></a>
-
 </div>
 
-## 🎯 Mission Statement
+## 🎯
 Architecting cutting-edge AI solutions that bridge complex algorithms with tangible real-world applications. From vehicle detection systems to text-to-video generation, every project pushes the boundaries of what's possible with artificial intelligence.
-
-## 🔬 Current Experiments
--- 🚗 **VehDet-TraAnlys**: Advanced vehicle detection & traffic analysis system ⭐
--- 🎬 **SIH_Txt2Vid**: Revolutionary text-to-video generation for Smart India Hackathon
--- 🤖 **miniGPT**: Custom GPT implementation from scratch
--- 📄 **Rag-PDF**: Intelligent document processing with RAG architecture
--- 🏢 **Erp_LLM**: Enterprise resource planning powered by large language models
--- 🛡️ **HelDet-LicRec**: Computer vision for safety compliance detection
 
 ## 🌟 **INNOVATION ECOSYSTEM**
 
