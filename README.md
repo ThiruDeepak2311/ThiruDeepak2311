@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, 👋
+#  Hey, 👋
 
 ### 🚀 AI/ML Engineer | Building Production AI Systems
 
@@ -98,31 +98,14 @@ Research background from **IIT Hyderabad** in multimodal 3D object detection.
 
 <div align="center">
 
-<a href="https://github.com/ThiruDeepak2311/pipeline-builder" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=pipeline-builder&theme=tokyonight&hide_border=true" alt="Pipeline Builder"></a>
-<a href="https://github.com/ThiruDeepak2311/fintech-intelligence-pipeline" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=fintech-intelligence-pipeline&theme=tokyonight&hide_border=true" alt="Fintech Intelligence"></a>
-
-<a href="https://github.com/ThiruDeepak2311/miniGPT" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight&hide_border=true" alt="miniGPT"></a>
-<a href="https://github.com/ThiruDeepak2311/Market-Research-Use-Case-Generation-Agent" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Market-Research-Use-Case-Generation-Agent&theme=tokyonight&hide_border=true" alt="Market Research Agent"></a>
-
-<a href="https://github.com/ThiruDeepak2311/Sentiment_Analysis_on_Call_Transcripts" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Sentiment_Analysis_on_Call_Transcripts&theme=tokyonight&hide_border=true" alt="Sentiment Analysis"></a>
-<a href="https://github.com/ThiruDeepak2311/IITHyd" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=IITHyd&theme=tokyonight&hide_border=true" alt="IIT Hyderabad Research"></a>
-
-</div>
-
----
-
-## 🔬 **PROJECT HIGHLIGHTS**
-
-<div align="center">
-
-| Project | Tech | Impact |
-|:--------|:-----|:-------|
-| **[Pipeline Builder](https://github.com/ThiruDeepak2311/pipeline-builder)** | React, ReactFlow, FastAPI | Visual AI workflow editor with 9 node types, DAG validation |
-| **[Fintech Intelligence](https://github.com/ThiruDeepak2311/fintech-intelligence-pipeline)** | LLaMA 3.2, Polygon.io, Flask | Real-time stock analysis with sentiment & risk scoring |
-| **[MedFusion](https://github.com/ThiruDeepak2311/MedRepImg)** | ConvNeXt, CLIP, Med-LLaMA | 76.3% accuracy on SLAKE radiology VQA benchmark |
-| **[miniGPT](https://github.com/ThiruDeepak2311/miniGPT)** | PyTorch, Transformers | 22M param GPT from scratch, 40 perplexity on WikiText-2 |
-| **[Multi-Agent Research](https://github.com/ThiruDeepak2311/Market-Research-Use-Case-Generation-Agent)** | LangChain, FAISS, Cohere | Agentic system with RAG for automated use case generation |
-| **[VirConvNet (IIT-H)](https://github.com/ThiruDeepak2311/IITHyd)** | LiDAR, RGB Fusion, PyTorch | +3.42% KITTI 3D AP, 2× inference speedup |
+| 🚀 | **Project** | **Description** |
+|:---:|:---|:---|
+| 🔧 | **[Pipeline Builder](https://github.com/ThiruDeepak2311/pipeline-builder)** | Visual drag-and-drop AI workflow editor with 9 node types & DAG validation |
+| 📈 | **[Fintech Intelligence](https://github.com/ThiruDeepak2311/fintech-intelligence-pipeline)** | Real-time stock analysis with LLaMA 3.2 sentiment & risk scoring |
+| 🤖 | **[miniGPT](https://github.com/ThiruDeepak2311/miniGPT)** | 22M parameter GPT built from scratch — 40 perplexity on WikiText-2 |
+| 🔬 | **[Multi-Agent Research](https://github.com/ThiruDeepak2311/Market-Research-Use-Case-Generation-Agent)** | Agentic AI system with FAISS RAG for automated use case generation |
+| 💬 | **[Sentiment Analysis](https://github.com/ThiruDeepak2311/Sentiment_Analysis_on_Call_Transcripts)** | Full-stack NLP tool with DistilBERT, FastAPI & interactive visualizations |
+| 🔭 | **[IIT-H Research](https://github.com/ThiruDeepak2311/IITHyd)** | VirConvNet: Multimodal 3D detection with LiDAR+RGB fusion |
 
 </div>
 
@@ -152,14 +135,13 @@ Research background from **IIT Hyderabad** in multimodal 3D object detection.
 
 ---
 
-## 📊 **GITHUB ANALYTICS**
+## 📊 **GITHUB ACTIVITY**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiruDeepak2311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruDeepak2311&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiruDeepak2311?tab=repositories)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThiruDeepak2311&theme=tokyonight&hide_border=true)
+**30+ repositories** spanning Computer Vision, LLMs, Full-Stack ML, and Production AI Systems
 
 </div>
 
