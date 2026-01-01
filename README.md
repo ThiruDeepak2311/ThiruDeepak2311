@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Deepak Thirukkumaran**
+# Hey, 👋
 
 ### 🚀 AI/ML Engineer | Building Production AI Systems
 
