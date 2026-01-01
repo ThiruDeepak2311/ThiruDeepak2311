@@ -1,141 +1,195 @@
 <div align="center">
 
+# 👋 Hey, I'm **Deepak Thirukkumaran**
 
+### 🚀 AI/ML Engineer | Building Production AI Systems
 
-<div align="center">
-
-
-### 🛠️ **TECH STACK**
-
-<a href="https://docs.python.org/3/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/></a>
-<a href="https://docs.jupyter.org/en/latest/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50"/></a>
-<a href="https://docs.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/></a>
-<a href="https://www.sqlite.org/docs.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" height="50"/></a>
-<a href="https://git-scm.com/doc" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/></a>
-<a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/></a>
-<a href="https://www.figma.com/developers/api" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/></a>
-
-</div>
-
-<div align="center">
-
-### 🧠 **AI SPECIALIZATIONS**
-<a href="https://opencv.org/about/" target="_blank"><img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> <a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"></a> <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"></a> <a href="https://spacy.io/usage/spacy-101" target="_blank"><img src="https://img.shields.io/badge/NLP-96CEB4?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"></a>
-
-</div>
-
-Architecting cutting-edge AI solutions that bridge complex algorithms with tangible real-world applications. From vehicle detection systems to text-to-video generation, every project pushes the boundaries of what's possible with artificial intelligence.
-
-## 🌟 **INNOVATION ECOSYSTEM**
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<a href="https://www.python.org/about/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-<br><strong>PYTHON</strong>
-<br><sub>Core Foundation</sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<br><strong>JAVASCRIPT</strong>
-<br><sub>Dynamic Systems</sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://python.langchain.com/docs/get_started/introduction" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="60" height="60"/>
-<br><strong>LANGCHAIN</strong>
-<br><sub>LLM Orchestration</sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://pytorch.org/get-started/locally/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60" height="60"/>
-<br><strong>PYTORCH</strong>
-<br><sub>Deep Learning</sub>
-</a>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🚀 **BREAKTHROUGH DOMAINS**
-
-| 🎯 **COMPUTER VISION** | 🧠 **MACHINE LEARNING** | 🎬 **GENERATIVE AI** |
-|:---:|:---:|:---:|
-| Vehicle Detection Systems | Deep Neural Networks | Text-to-Video Generation |
-| Safety Compliance Monitoring | Pattern Recognition | Creative AI Applications |
-| Real-time Object Analysis | Predictive Modeling | Content Generation |
-
-</div>
-
-<div align="center">
-
-### 💡 **PROBLEMS I SOLVE**
-
-```
-🚗 Traffic Management → Vehicle Detection AI
-📄 Document Overload → Intelligent PDF Processing  
-🎬 Content Creation → Text-to-Video Generation
-🤖 Customer Service → Smart Chatbot Systems
-🛡️ Safety Compliance → Automated Detection Systems
-🏢 Business Automation → AI-Powered ERP Solutions
-```
-
-</div>
-
-## 📈 Impact Metrics
-- 🏆 **Smart India Hackathon**: Text-to-Video Generation Project
-- ⭐ **Open Source**: Contributing to AI/ML community
-- 🎓 **Academic Excellence**: Shiv Nadar University, Chennai
-- 🔬 **Research Focus**: Computer Vision + Large Language Models
-- 🚀 **Production Systems**: Real-world AI implementations
-
-## 🌐 Connect With The Neural Network
 <a href="https://www.linkedin.com/in/deepak-thirukkumaran-758598232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:thirudeepak2311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-
-*"Every algorithm I write is a step closer to making AI truly beneficial for humanity"*
+<a href="mailto:thirudeepak2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://deepakt.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 ---
 
-### 🏆 Featured Repositories
-<div align="center">
+**AI/ML Engineer** with production experience shipping computer vision, NLP, and LLM systems.  
+Currently building KPI optimization tools at **ORCA Digital** and creator analytics platforms at **CreatorOS**.  
+Research background from **IIT Hyderabad** in multimodal 3D object detection.
 
-<a href="https://github.com/ThiruDeepak2311/IITHyd" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=IITHyd&theme=tokyonight&cache_seconds=0" alt="IITHyd"></a>
-<a href="https://github.com/ThiruDeepak2311/VKanalysis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=VKanalysis&theme=tokyonight&cache_seconds=0" alt="VKanalysis"></a>
-
-<a href="https://github.com/ThiruDeepak2311/miniGPT" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight&cache_seconds=0" alt="miniGPT"></a>
-<a href="https://github.com/ThiruDeepak2311/SIH_Txt2Vid" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=SIH_Txt2Vid&theme=tokyonight&cache_seconds=0" alt="SIH Txt2Vid"></a>
+*B.Tech AI & Data Science @ Shiv Nadar University (2025)*
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
-> *Note: GitHub stats widgets may take time to load. For real-time insights, visit the [repositories](https://github.com/ThiruDeepak2311?tab=repositories) directly.*
+## 🧠 **AI SPECIALIZATIONS**
+
+<div align="center">
+
+<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"></a>
+<a href="https://python.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LLMs_&_RAG-45B7D1?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs & RAG"></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Agentic_AI-96CEB4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Agentic AI"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/Full_Stack_ML-9B59B6?style=for-the-badge&logo=fastapi&logoColor=white" alt="Full Stack ML"></a>
+
+</div>
+
+---
+
+## 🛠️ **TECH STACK**
+
+<div align="center">
+
+<a href="https://docs.python.org/3/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" title="PyTorch"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" title="FastAPI"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="React"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" title="AWS"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" title="Git"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50" title="Figma"/></a>
+
+</div>
+
+<div align="center">
+
+| **ML/AI** | **Backend** | **Frontend** | **Infrastructure** |
+|:---:|:---:|:---:|:---:|
+| PyTorch, OpenCV | FastAPI, Flask | React, TypeScript | Docker, AWS, GCP |
+| LangChain, HuggingFace | PostgreSQL, pgvector | Tailwind, ReactFlow | GitHub Actions CI/CD |
+| PaddleOCR, ONNX | SQLAlchemy, Redis | Framer Motion | Railway, Vercel |
+
+</div>
+
+---
+
+## 🏢 **WHERE I'VE BUILT**
+
+<div align="center">
+
+| 🏭 **ORCA Digital Lean Solutions** | 🎬 **CreatorOS (DRPCRD)** | 🔬 **IIT Hyderabad** | 💼 **TCS** |
+|:---:|:---:|:---:|:---:|
+| AI/ML Engineer (Contract) | AI Engineer Intern | Research Intern | CV Intern |
+| Michigan, USA | London, UK | Hyderabad, India | Chennai, India |
+| KPI Optimization, Manufacturing AI | Creator Analytics, Content Moderation | Multimodal 3D Detection | Industrial CV Pipelines |
+
+</div>
+
+---
+
+## 💡 **PROBLEMS I SOLVE**
+
+<div align="center">
+
+```
+🏭 Manufacturing Optimization  →  KPI frameworks, cost-efficiency algorithms
+🎬 Creator Analytics          →  Demographic detection, pricing prediction (+15% ROI)
+🚗 Autonomous Systems         →  3D object detection, LiDAR+RGB fusion (90% voxel reduction)
+🏥 Healthcare AI              →  Multimodal radiology VQA, report generation
+📊 Business Intelligence      →  RAG systems, agentic workflows, ERP automation
+🎯 Real-time Detection        →  YOLOv8 pipelines, safety compliance (95%+ accuracy)
+```
+
+</div>
+
+---
+
+## 🏆 **FEATURED PROJECTS**
+
+<div align="center">
+
+<a href="https://github.com/ThiruDeepak2311/pipeline-builder" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=pipeline-builder&theme=tokyonight&hide_border=true" alt="Pipeline Builder"></a>
+<a href="https://github.com/ThiruDeepak2311/fintech-intelligence-pipeline" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=fintech-intelligence-pipeline&theme=tokyonight&hide_border=true" alt="Fintech Intelligence"></a>
+
+<a href="https://github.com/ThiruDeepak2311/miniGPT" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=miniGPT&theme=tokyonight&hide_border=true" alt="miniGPT"></a>
+<a href="https://github.com/ThiruDeepak2311/Market-Research-Use-Case-Generation-Agent" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Market-Research-Use-Case-Generation-Agent&theme=tokyonight&hide_border=true" alt="Market Research Agent"></a>
+
+<a href="https://github.com/ThiruDeepak2311/Sentiment_Analysis_on_Call_Transcripts" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=Sentiment_Analysis_on_Call_Transcripts&theme=tokyonight&hide_border=true" alt="Sentiment Analysis"></a>
+<a href="https://github.com/ThiruDeepak2311/IITHyd" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiruDeepak2311&repo=IITHyd&theme=tokyonight&hide_border=true" alt="IIT Hyderabad Research"></a>
+
+</div>
+
+---
+
+## 🔬 **PROJECT HIGHLIGHTS**
+
+<div align="center">
+
+| Project | Tech | Impact |
+|:--------|:-----|:-------|
+| **[Pipeline Builder](https://github.com/ThiruDeepak2311/pipeline-builder)** | React, ReactFlow, FastAPI | Visual AI workflow editor with 9 node types, DAG validation |
+| **[Fintech Intelligence](https://github.com/ThiruDeepak2311/fintech-intelligence-pipeline)** | LLaMA 3.2, Polygon.io, Flask | Real-time stock analysis with sentiment & risk scoring |
+| **[MedFusion](https://github.com/ThiruDeepak2311/MedRepImg)** | ConvNeXt, CLIP, Med-LLaMA | 76.3% accuracy on SLAKE radiology VQA benchmark |
+| **[miniGPT](https://github.com/ThiruDeepak2311/miniGPT)** | PyTorch, Transformers | 22M param GPT from scratch, 40 perplexity on WikiText-2 |
+| **[Multi-Agent Research](https://github.com/ThiruDeepak2311/Market-Research-Use-Case-Generation-Agent)** | LangChain, FAISS, Cohere | Agentic system with RAG for automated use case generation |
+| **[VirConvNet (IIT-H)](https://github.com/ThiruDeepak2311/IITHyd)** | LiDAR, RGB Fusion, PyTorch | +3.42% KITTI 3D AP, 2× inference speedup |
+
+</div>
+
+---
+
+## 🚀 **WHAT I'M BUILDING NOW**
+
+<div align="center">
+
+🏭 **Manufacturing KPI Engine** — Multi-tenant optimization framework with budget-constrained action planning  
+🎬 **Creator Intelligence** — Demographic & content moderation pipelines for social platforms  
+🤖 **Agentic Workflows** — Multi-agent systems for automated research and analysis  
+
+</div>
+
+---
+
+## 📈 **IMPACT METRICS**
+
+<div align="center">
+
+| 🎯 **3+ Internal Tools** | 📊 **+15% Campaign ROI** | ⚡ **2× Inference Speedup** | 🎓 **95%+ CV Accuracy** |
+|:---:|:---:|:---:|:---:|
+| Shipped at ORCA | CreatorOS Pricing Model | IIT-H Research | TCS Industrial Pipeline |
+
+</div>
+
+---
+
+## 📊 **GITHUB ANALYTICS**
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiruDeepak2311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruDeepak2311&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThiruDeepak2311&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 **CERTIFICATIONS**
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner"></a>
+<a href="#"><img src="https://img.shields.io/badge/IBM-AI_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI Developer"></a>
+<a href="#"><img src="https://img.shields.io/badge/IBM-RAG_&_Agentic_AI-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM RAG & Agentic AI"></a>
+
 </div>
 
 ---
 
 <div align="center">
-  
-**💡 "The future of AI isn't just artificial intelligence, it's augmented humanity"**
 
-*Building tomorrow's intelligent systems, one commit at a time* 🚀
+### 🌐 **LET'S CONNECT**
+
+<a href="https://www.linkedin.com/in/deepak-thirukkumaran-758598232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:thirudeepak2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://deepakt.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/ThiruDeepak2311" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+---
+
+*"Building AI systems that ship to production, not just notebooks."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThiruDeepak2311&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
