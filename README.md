@@ -102,6 +102,7 @@ Research background from **IIT Hyderabad** in multimodal 3D object detection.
 |:---:|:---|:---|
 | 🔧 | **[Pipeline Builder](https://github.com/ThiruDeepak2311/pipeline-builder)** | Visual drag-and-drop AI workflow editor with 9 node types & DAG validation |
 | 📈 | **[Fintech Intelligence](https://github.com/ThiruDeepak2311/fintech-intelligence-pipeline)** | Real-time stock analysis with LLaMA 3.2 sentiment & risk scoring |
+| 🔍 | **[SEO Diagnostic Tool](https://github.com/ThiruDeepak2311/upgrowth-seo-diagnostic)** | Full-stack SEO analyzer with 15 automated checks & weighted scoring — freelance project for upGrowth |
 | 🤖 | **[miniGPT](https://github.com/ThiruDeepak2311/miniGPT)** | 22M parameter GPT built from scratch — 40 perplexity on WikiText-2 |
 | 🔬 | **[Multi-Agent Research](https://github.com/ThiruDeepak2311/Market-Research-Use-Case-Generation-Agent)** | Agentic AI system with FAISS RAG for automated use case generation |
 | 💬 | **[Sentiment Analysis](https://github.com/ThiruDeepak2311/Sentiment_Analysis_on_Call_Transcripts)** | Full-stack NLP tool with DistilBERT, FastAPI & interactive visualizations |
